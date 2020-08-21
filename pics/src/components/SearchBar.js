@@ -6,8 +6,7 @@ class SearchBar extends React.Component {
     onFormSubmit = event => {
         // 実行したイベントがキャンセル可能ならキャンセルする
         event.preventDefault();
-
-        console.log(this.state.term);
+        this.props.onSubmit(this.state.term);
     }
 
     render() {
