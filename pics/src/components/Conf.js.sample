@@ -1,0 +1,3 @@
+const UNSPLASH_ACCESS_KEY = 'xxxx';
+
+export default UNSPLASH_ACCESS_KEY;

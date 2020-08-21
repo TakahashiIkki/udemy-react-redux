@@ -66,3 +66,13 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# When This App Start
+
+```
+cd components
+cp Conf.js.sample Conf.js
+```
+
+Please set environment at `Conf.js` according to your environment.
+
