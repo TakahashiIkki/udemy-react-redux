@@ -76,3 +76,5 @@ cp Conf.js.sample Conf.js
 
 Please set environment at `Conf.js` according to your environment.
 
+API is https://unsplash.com/@ikkitang
+
